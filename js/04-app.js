@@ -15,4 +15,5 @@ const obtenerNombre = producto => {
 
 const resultado = carrito.map(obtenerNombre);
 console.log(resultado);
+
 console.log(carrito);
